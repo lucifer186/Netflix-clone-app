@@ -1,0 +1,11 @@
+.home{
+    display: flex;
+    flex-direction: column;
+}
+
+.home h1 {
+    color: white;
+}
+#a {
+border-bottom: 1px solid wheat;
+}
